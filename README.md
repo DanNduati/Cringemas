@@ -20,9 +20,9 @@ python3 -m venv env
 ```bash
 source venv/bin/activate
 ```
-### Create a `.env` file similar to [`.env.example`](https://github.com/DanNduati/) and add all your twilio and Africas talking creds to it
+### Create a `.env` file similar to [`.env.example`](https://github.com/DanNduati/Cringemas/blob/main/cringemas.py) and add all your twilio and Africas talking creds to it
 
-### Create a csv file similar to [fam.copy.csv](https://github.com/DanNduati/)
+### Create a csv file similar to [fam.copy.csv](https://github.com/DanNduati/Cringemas/blob/main/fam.copy.csv)
 
 <img height="300" src="images/workbook.png">
 
