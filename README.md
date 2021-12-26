@@ -11,7 +11,7 @@ The goal is very simple automate sending those cringe christmas and new years ch
 ## Running Locally
 ### Clone the repository
 ```bash
-git clone 
+git clone git@github.com:DanNduati/Cringemas.git
 ```
 ### Create a python virtual environment activate it
 ```bash
