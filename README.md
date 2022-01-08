@@ -15,7 +15,7 @@ git clone git@github.com:DanNduati/Cringemas.git
 ```
 ### Create a python virtual environment activate it
 ```bash
-python3 -m venv env
+python3 -m venv venv
 ```
 ```bash
 source venv/bin/activate
